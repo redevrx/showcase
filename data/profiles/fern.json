@@ -1,0 +1,29 @@
+{
+  "username": "fern",
+  "template": "prism",
+  "displayName": "เฟิร์น",
+  "tagline": "เด็กหอ รักแมว ไม่ค่อยนอน",
+  "status": "idle",
+  "badges": [
+    { "label": "VIP", "tone": "accent" },
+    { "label": "Chiang Mai", "tone": "neutral" },
+    { "label": "Coffee 80%", "tone": "primary" }
+  ],
+  "theme": { "preset": "aurora", "primary": "#E5C9FF", "accent": "#7DF2E3" },
+  "stats": { "views": 5203, "likes": 342, "since": "2024" },
+  "socials": [
+    { "platform": "facebook", "url": "https://facebook.com/", "handle": "fern.f" },
+    { "platform": "instagram", "url": "https://instagram.com/", "handle": "@fern" },
+    { "platform": "tiktok", "url": "https://tiktok.com/", "handle": "@fern.xx" },
+    { "platform": "line", "url": "https://line.me/", "handle": "@fern" },
+    { "platform": "youtube", "url": "https://youtube.com/", "handle": "fern diary" }
+  ],
+  "links": [
+    { "label": "TikTok", "meta": "vlog หอ · ครัวสิ้นเดือน", "url": "https://tiktok.com/", "icon": "tiktok" },
+    { "label": "IG Photo Dump", "meta": "รูปที่ไม่ได้ลงที่ไหน", "url": "https://instagram.com/", "icon": "instagram" },
+    { "label": "Playlist", "meta": "เพลงทำงานตอนตี 2", "url": "https://open.spotify.com/", "icon": "spotify" },
+    { "label": "Facebook Page", "meta": "เพจร้านกาแฟของแม่", "url": "https://facebook.com/", "icon": "facebook" }
+  ],
+  "nowPlaying": { "playing": true, "title": "Bedroom Window", "artist": "ฟ้าสีทอง", "progress": 68, "bpm": 96, "src": "/audio/bedroom-window.mp3" },
+  "scene": { "moteCount": 2600, "motion": 1 }
+}

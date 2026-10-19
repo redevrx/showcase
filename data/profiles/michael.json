@@ -1,0 +1,98 @@
+{
+  "username": "michael",
+  "template": "skyline",
+  "displayName": "Michael",
+  "avatar": "/avatars/michael.png",
+  "tagline": "Love rabbit · ชิล ๆ แต่จริงจัง",
+  "status": "online",
+  "badges": [
+    {
+      "label": "Diamond 1",
+      "icon": "valorant",
+      "tone": "accent"
+    },
+    {
+      "label": "AP Region",
+      "tone": "neutral"
+    },
+    {
+      "label": "LV 271",
+      "tone": "primary"
+    }
+  ],
+  "theme": {
+    "preset": "signal",
+    "primary": "#CFE6FF",
+    "accent": "#FFB65C"
+  },
+  "stats": {
+    "views": 18422,
+    "likes": 1287,
+    "since": "2023"
+  },
+  "socials": [
+    {
+      "platform": "instagram",
+      "url": "https://instagram.com/",
+      "handle": "@michael.wav"
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/",
+      "handle": "michael"
+    },
+    {
+      "platform": "tiktok",
+      "url": "https://tiktok.com/",
+      "handle": "@michael.wav"
+    },
+    {
+      "platform": "discord",
+      "url": "https://discord.com/",
+      "handle": "michael"
+    },
+    {
+      "platform": "x",
+      "url": "https://x.com/",
+      "handle": "@michael"
+    }
+  ],
+  "links": [
+    {
+      "label": "Valorant",
+      "meta": "Peak Diamond 1 · AP · LV 271",
+      "url": "https://playvalorant.com/",
+      "icon": "valorant"
+    },
+    {
+      "label": "TikTok Clips",
+      "meta": "ไฮไลต์ 1v5 กับเพลงที่ฟังอยู่",
+      "url": "https://tiktok.com/",
+      "icon": "tiktok"
+    },
+    {
+      "label": "Late Night Playlist",
+      "meta": "22 เพลง · อัปเดตทุกสัปดาห์",
+      "url": "https://open.spotify.com/",
+      "icon": "spotify"
+    },
+    {
+      "label": "Discord Server",
+      "meta": "เข้ามานั่งคุยกันได้",
+      "url": "https://discord.com/",
+      "icon": "discord"
+    }
+  ],
+  "nowPlaying": {
+    "playing": true,
+    "title": "Ark",
+    "artist": "Ship Wrek & Zookeepers",
+    "progress": 42,
+    "bpm": 122,
+    "spotify": "https://open.spotify.com/track/1HsSyi5yPKIStnaZmqKDz6"
+  },
+  "scene": {
+    "moteCount": 3200,
+    "motion": 1
+  }
+}
